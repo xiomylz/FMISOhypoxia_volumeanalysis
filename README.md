@@ -24,21 +24,17 @@ Para evaluar los resultados del tratamiento con radioterapia, se consideraron la
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/usuario/repositorio.git
+    git clone https://github.com/xiomylz/FMISOhypoxia_volumeanalysis.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
-    cd repositorio
+    cd FMISOhypoxia_volumeanalysis
     ```
 3. Crea un entorno virtual e instálalo:
     ```bash
     python -m venv venv
     source venv/bin/activate  # Para Linux/macOS
     venv\Scripts\activate  # Para Windows
-    ```
-4. Instala las dependencias necesarias:
-    ```bash
-    pip install -r requirements.txt
     ```
 
 ### Ejemplos de Uso
