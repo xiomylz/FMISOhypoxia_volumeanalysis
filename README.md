@@ -45,7 +45,7 @@ Para evaluar los resultados del tratamiento con radioterapia, se consideraron la
 
 1. Para calcular los volúmenes de hipoxia:
     ```bash
-    python hypoxia_volumen.py
+    python Hypoxia_volumen.py
     ```
 2. Para realizar el análisis estadístico en términos de tiempo:
     ```bash
